@@ -2,7 +2,7 @@
 
 A starter to create and manage a storefront with [Gatsby](https://www.gatsbyjs.org/), [Stripe](https://stripe.com/), & [Netlify Functions](https://www.netlify.com/docs/functions/); includes cart, checkout, admin, and live data.
 
-## Features
+## Updating Features
 
 - Create and manage inventory through admin interface
 - Statically generate based on Stripe inventory
